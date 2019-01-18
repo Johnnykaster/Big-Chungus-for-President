@@ -1,0 +1,56 @@
+.title {
+    text-align: center;
+    background-image: url("https://assets.change.org/photos/4/dn/is/cAdnISOKdSDtVVe-800x450-noPad.jpg?1545768957");
+    padding-bottom: 100px;
+    background-size: 50%;
+}
+.titletext{
+    color: white;
+}
+button{
+    background: white;
+}
+a:link {
+    text-decoration: none;
+    background: white;
+}
+.BCFP {
+    height: 300px;
+}
+.buttons {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 20px 200px 20px 200px;
+}
+.click-here {
+    margin-left: 275px;
+    display: flex;
+}
+.second {
+    margin-left: 1000px;
+    margin-bottom: 40px;
+}
+.smile {
+    height: 300px;
+}
+.donate {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: red;    
+}
+.donate-button {
+    height: 100px;
+    width: 150px;
+    margin-top: 20px;
+    }
+.footer {
+    height: 200px;
+    background-color: blue;
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
